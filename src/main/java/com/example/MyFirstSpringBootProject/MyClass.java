@@ -11,5 +11,6 @@ public class MyClass {
     @GetMapping("")
     public String sayHello(){
         return "Hello";
+
     }
 }
